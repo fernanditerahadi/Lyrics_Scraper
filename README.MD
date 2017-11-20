@@ -1,4 +1,5 @@
 == Lyrics Scraper ==
+== (written in Python) ==
 
 This simple application automatically crawl all the links found in http://www.azlyrics.com,
 extract spotted lyrics, and store them in a database file called 'lyrics.sqlite'.
